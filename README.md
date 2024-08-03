@@ -1,5 +1,5 @@
 GoodbyeDPI — Deep Packet Inspection circumvention utility
-=========================
+=====================
 
 This software designed to bypass Deep Packet Inspection systems found in many Internet Service Providers which block access to certain websites.
 
